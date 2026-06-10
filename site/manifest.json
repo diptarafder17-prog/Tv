@@ -1,0 +1,11 @@
+{
+  "name": "Open Live TV",
+  "short_name": "LiveTV",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F1720",
+  "theme_color": "#0B6EF6",
+  "icons": [
+    { "src": "assets/logo.svg", "sizes": "120x120", "type": "image/svg+xml" }
+  ]
+}
